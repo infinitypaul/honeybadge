@@ -44,7 +44,7 @@ LOG_SLACK_WEBHOOK_URL=
 
 ## Api Usage
 
-> Using Get Request:
+> Using POST Request:
 
 ```
 POST http://localhost/api/notify
